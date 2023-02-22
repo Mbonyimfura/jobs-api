@@ -16,7 +16,7 @@ const options = {
         description: 'Development server',
       },
       {
-        url: 'https://tresor.onrender.com/',
+        url: 'https://jobs-api-5qfk.onrender.com/',
         description: 'Production server',
       },
     ],
